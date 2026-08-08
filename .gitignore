@@ -1,0 +1,39 @@
+# Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Python
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Model Checkpoints
+checkpoints/
+*.pt
+*.pth
+
+# Dataset
+data/raw/
+data/processed/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
