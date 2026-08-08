@@ -1,4 +1,4 @@
-# 🧠 TinyTransformerLM
+# 🧠 TinyTransformer
 
 ### A Decoder-Only Transformer Language Model Built from Scratch in PyTorch
 
